@@ -5,6 +5,7 @@
 불필요한 mybatis 관련 파일들을 삭제한다
 ================================================
 
+- src/main/java/com/nhnent/forward/mybatistojpa/config/MybatisConfig.java
 - src/main/java/com/nhnent/forward/mybatistojpa/mapper/ItemMapper.java
 - src/main/java/com/nhnent/forward/mybatistojpa/mapper/OrderItemMapper.java
 - src/main/java/com/nhnent/forward/mybatistojpa/mapper/OrderMapper.java
